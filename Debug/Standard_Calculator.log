@@ -1,0 +1,6 @@
+﻿  Hood_assignment2.c
+C:\Users\sam_h\CProjects\Standard_Calculator_VS\Hood_assignment2.c(85,10): warning C4129:  '>': unrecognized character escape sequence
+C:\Users\sam_h\CProjects\Standard_Calculator_VS\Hood_assignment2.c(130,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\sam_h\CProjects\Standard_Calculator_VS\Hood_assignment2.c(297,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\sam_h\CProjects\Standard_Calculator_VS\Hood_assignment2.c(328,11): warning C4129:  '>': unrecognized character escape sequence
+  Standard_Calculator.vcxproj -> C:\Users\sam_h\CProjects\Standard_Calculator_VS\Debug\Standard_Calculator.exe
